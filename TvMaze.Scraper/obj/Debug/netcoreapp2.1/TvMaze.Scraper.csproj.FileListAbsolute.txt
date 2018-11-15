@@ -1,0 +1,14 @@
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\bin\Debug\netcoreapp2.1\TvMaze.Scraper.deps.json
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\bin\Debug\netcoreapp2.1\TvMaze.Scraper.runtimeconfig.json
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\bin\Debug\netcoreapp2.1\TvMaze.Scraper.runtimeconfig.dev.json
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\bin\Debug\netcoreapp2.1\TvMaze.Scraper.dll
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.csproj.CoreCompileInputs.cache
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.RazorAssemblyInfo.cache
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.RazorAssemblyInfo.cs
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.AssemblyInfoInputs.cache
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.AssemblyInfo.cs
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.RazorTargetAssemblyInfo.cache
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\bin\Debug\netcoreapp2.1\TvMaze.Scraper.pdb
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.dll
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.pdb
+C:\Users\fwambua\source\repos\TvMaze.Scraper\TvMaze.Scraper\obj\Debug\netcoreapp2.1\TvMaze.Scraper.csprojAssemblyReference.cache
